@@ -10,3 +10,7 @@ Most of the rigging process was simple, except for the hair. Each hair piece wer
 The issues I had came to the skin painting. I think I generally had really good deformation in the limbs when it came to movement, but the midsection has some stretching to it that doesn't seem natural when the rig is moved too far.
 >>>>
 [LAB03] https://www.youtube.com/watch?v=YZoGtACH2iA
+>>>>
+[LAB04] https://youtu.be/bpGvX4TukDU?si=R9ViLUzW1TgOhNr4
+>>>>
+[LAB05] So, for this Houdini procedural model, I decided to create a bridge--as I followed a few tutorial videos online. Essentially, I created a line geo and added various nodes to it, like resample, transform, bevel, and more to create a wood and stone bridge effect. I even added color nodes. The biggest challenge I had was doing any sort of modeling in Houdini--I'm pretty unfamiliar with it, but the tutorials I watched helped a lot and I was able to get this done on my Houdini Indie license.
