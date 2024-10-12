@@ -14,3 +14,7 @@ The issues I had came to the skin painting. I think I generally had really good 
 [LAB04] https://youtu.be/bpGvX4TukDU?si=R9ViLUzW1TgOhNr4
 >>>>
 [LAB05] So, for this Houdini procedural model, I decided to create a bridge--as I followed a few tutorial videos online. Essentially, I created a line geo and added various nodes to it, like resample, transform, bevel, and more to create a wood and stone bridge effect. I even added color nodes. The biggest challenge I had was doing any sort of modeling in Houdini--I'm pretty unfamiliar with it, but the tutorials I watched helped a lot and I was able to get this done on my Houdini Indie license.
+>>>>
+[LAB06] N/A so far.
+>>>>
+[LAB07] So, I used a few tutorials, along with the instruction from the lab to create a smoke visual effect. I used both the pyro source and solver with the required density and temperature aspects to create said effect. It took me a few interations of trying to get it right, but I eventually figured it out.
